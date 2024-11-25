@@ -1,5 +1,5 @@
 
-Deployment Link - https://Bridg-Ed-lscy.onrender.com
+Deployment Link - https://eduflex-lscy.onrender.com
 
 # Unleash the Power of *Bridg-Ed* - One Platform for Schools and Students 
 
