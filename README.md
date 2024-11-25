@@ -1,8 +1,8 @@
 
-Deployment Link - https://eduflex-lscy.onrender.com
+Deployment Link - https://Bridg-Ed-lscy.onrender.com
 
-# Unleash the Power of *EduFlex* - One Platform for Schools and Students 
-![alt text](public/img/CodeCrew,jpg.jpeg)
+# Unleash the Power of *Bridg-Ed* - One Platform for Schools and Students 
+
 *Imagine a platform that revolutionizes education, empowering schools and students to thrive in the ever-evolving world. This is not a dream; it's the reality we're building with our innovative website!*
 
 ## *Inspiration* -
@@ -33,7 +33,7 @@ The education landscape, despite advancements in technology and societal shifts,
 - Continuous Improvement through Feedback: We believe in evolving with your needs. Share your feedback through a user-friendly system, allowing us to constantly improve the platform's experience and deliver the best possible service.
 
 
-## *What's next for EduFlex -*
+## *What's next for Bridg-Ed -*
 ### *Attendance Made Easy (and Secure):*
 
   Image-Based Attendance System: Eliminate tedious roll calls! Our secure, image-based system ensures accurate attendance tracking while saving valuable class time. 
